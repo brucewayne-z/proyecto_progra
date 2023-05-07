@@ -1,0 +1,11 @@
+NEPTUNO,1,1,7,H,Octavo planeta del sistema solar
+SHAKESPEARE,2,2,11,V,Dramaturgo y poeta inglés autor de Romeo y Julieta
+GALILEO,2,2,7,H,Astrónomo y físico italiano que mejoró el telescopio
+PYTHON,3,3,6,V,Lenguaje de programación de alto nivel
+BEETHOVEN,4,4,9,H,Compositor y pianista alemán autor de la Novena Sinfonía
+MONALISA,4,4,7,V,Obra de arte pintada por Leonardo da Vinci
+EINSTEIN,6,1,8,H,Físico alemán creador de la teoría de la relatividad
+NILO,6,6,4,V,Río más largo del mundo ubicado en África
+SUSHI,8,8,5,H,Platillo japonés que consiste en pescado crudo y arroz
+SALSA,9,9,5,V,Estilo de música y baile latinoamericano de origen cubano
+TESLA,10,10,5,H,Compañía de automóviles eléctricos fundada por Elon Musk

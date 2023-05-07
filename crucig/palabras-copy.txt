@@ -1,0 +1,8 @@
+ASYNC,1,1,5,H,Permite que las funciones se ejecuten de manera no secuencial
+AWAIT,2,2,5,V,Se utiliza para esperar a que se complete una tarea o promesa
+THREAD,2,2,6,H,Hilo de ejecución en un programa o proceso
+DEFERRED,2,2,8,H,Objeto que representa una operación que se completará en el futuro
+HANDLER,2,2,7,V,Función que maneja un evento o acción específica
+OOP,5,1,3,H,Paradigma de programación basado en objetos
+CLASS,5,5,5,V,Define un tipo de objeto en programación orientada a objetos
+ARRAY,8,1,5,H,Estructura de datos que almacena una colección de elementos
